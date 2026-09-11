@@ -80,11 +80,4 @@ The State Bank of Pakistan publishes detailed financial data for hundreds of lis
 
 Profitability at every level — company, sector, and overall portfolio — is highest for firms with lower leverage. The Coke & Refined Petroleum sector, led by Pakistan State Oil (PSO), was the standout performer of the entire 19-year period, consistently outperforming the broader market on both sales and returns.
 
-## Team
-- Muhammad Sulaiman (SP25-BDA-004)
-- Haris Jamil (SP25-BDA-009)
-- Abuzar Paracha (SP25-BDA-002)
 
-**Department:** Management Sciences, COMSATS University Islamabad, Abbottabad Campus
-**Submitted to:** Dr. Jamil Anwar
-**Submission Date:** July 12, 2026
